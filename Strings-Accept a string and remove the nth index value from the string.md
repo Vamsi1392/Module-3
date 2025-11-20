@@ -15,8 +15,14 @@ To write a Python program that accepts a string and removes the character at a s
 8. Print the final result.
 
 ## 💻 Program
-Add Code Here
+```
+def joinstring(text):
+    result = "-".join(text)
+    print(result)
+```
 
 ## Output
+<img width="1045" height="288" alt="Screenshot 2025-11-20 224747" src="https://github.com/user-attachments/assets/fc893383-b108-4b66-95b5-5d126aa54cfe" />
 
 ## Result
+Thus the Python program that accepts a string and joins the character after a each character is executed successsfully.
