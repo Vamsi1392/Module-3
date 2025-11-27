@@ -1,4 +1,4 @@
-# Tuple in Python: Check Element Existence
+#3E. Tuple in Python: Check Element Existence
 
 ## 🎯 Aim
 To write a Python program that checks if the element `'n'` and the element `8` exist within a given tuple.
@@ -11,12 +11,15 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 ```
-a=eval(input())
-print(True if '52' in a else False)
-print(True if '12' in a else False)
+tuplex = input()
+print("n" in tuplex)
+print("8" in tuplex)
 ```
 ## Output
-<img width="1036" height="292" alt="Screenshot 2025-11-20 225129" src="https://github.com/user-attachments/assets/46cb663b-ec51-49f0-a59e-fbfc16ea6653" />
+
+<img width="1183" height="339" alt="Screenshot 2025-11-27 182653" src="https://github.com/user-attachments/assets/dbf506b4-dc18-41e7-bf8b-1db4db3e234c" />
+
 
 ## Result
-Thus Python program that checks if the element 'n' and the element 52 and 12 exist within a given tuple is executed successfully.
+Thus the program executed successfully.
+
