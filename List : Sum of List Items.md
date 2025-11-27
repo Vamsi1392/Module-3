@@ -1,4 +1,4 @@
-# List Operations in Python: Sum of List Items
+#3A. List Operations in Python: Sum of List Items
 
 ## 🎯 Aim
 To write a Python program that calculates the **sum of all elements** in a list.
@@ -10,17 +10,14 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-def createlist(n):
-    l=[]
-    for i in range(1,n):
-        if i%2==0:
-            l.append(i)
-    print("List =",l)
-    print("Sum of the list = ",sum(l))
-```
+items=[153,147,124,102]
+print(sum(items))
 
+```
 ## Output
-<img width="1070" height="278" alt="Screenshot 2025-11-20 224419" src="https://github.com/user-attachments/assets/4cd6583e-5206-4749-ae77-50b1329b87f4" />
+
+<img width="1205" height="240" alt="Screenshot 2025-11-27 182042" src="https://github.com/user-attachments/assets/23922ae1-aae0-4149-b27d-b4990d12dc82" />
+
 
 ## Result
 Thus Python program to calculate the sum of all even elements in a list is executed successfully.
